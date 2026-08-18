@@ -1,5 +1,3 @@
-### Procedure
-
 ### Materials
 
 - Paraformaldehyde and glutaraldehyde
@@ -47,8 +45,8 @@ Biological samples are fragile and contain a large amount of water. Water presen
 
 A thin (~10 nm-100 nm) section of the sample is needed so that electrons can pass through it to form an image. Biological samples are fragile and cannot be processed to cut thin sections. Hence, the sample needs to be embedded into a solid matrix to cut the sections.
 
-| Epon embedding | LR white embedding |
-| -------------- | ------------------ |
+| Epon embedding                                                                                                                                                                                                                                                                                                                                          | LR white embedding                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Remove the solution and sample is incubated with propylene oxide : Epon resin (1:1) overnight. Remove the solution and sample is incubated with fresh Epon 812 resin for additional 1-5 hrs. Dispense a few µl of fresh Epon 812 resin in polyethylene capsules and the specimen is transferred into it. Place capsule at 60 °C in hot oven for 48 hrs. | Dehydrate the specimen in ethanol as described. Incubate tissue or cells for 30 min in a mixture of ethanol and LR white resin (1:1). Subsequently, incubate tissue or cells for 30 min in a mixture of ethanol and LR white resin (2:1). Incubate tissue or cells in LR white resin for 1 hr; repeat this step 3 times. Finally leave the tissue or cells overnight in 100% LR white resin. Fill the capsule with LR white containing tissue/cell and seal the capsule to allow polymerization of resin in a 50 °C oven overnight. |
 
 ### 6. Staining
