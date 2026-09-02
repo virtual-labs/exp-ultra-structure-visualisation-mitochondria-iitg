@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which electron microscope is most suitable for detailed internal ultrastructure of cells and thin sections?",
+      "answers": {
+        "a": "Scanning electron microscope",
+        "b": "Transmission electron microscope",
+        "c": "Atomic force microscope",
+        "d": "Light microscope"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the typical accelerating voltage range used for high-resolution TEM of nanoparticles?",
+      "answers": {
+        "a": "0.5-5 kV",
+        "b": "20-300 kV",
+        "c": "1-5 MV",
+        "d": "5-15 kV"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which artifact is commonly introduced by chemical fixation with glutaraldehyde?",
+      "answers": {
+        "a": "Vitrification",
+        "b": "Cross-linking induced shrinkage or masking of antigenic sites",
+        "c": "Increased electrical conductivity",
+        "d": "Enhanced crystal diffraction"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which EM technique allows 3D reconstruction of cellular volumes via serial sectioning or tomography?",
+      "answers": {
+        "a": "Selected area electron diffraction",
+        "b": "Electron tomography or serial block-face SEM",
+        "c": "EDS mapping",
+        "d": "Secondary ion mass spectrometry"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which technique is useful to examine crystalline lattice fringes and interplanar spacing in nanoparticles?",
+      "answers": {
+        "a": "Low-magnification SEM",
+        "b": "High-resolution TEM (HRTEM)",
+        "c": "Optical polarized light microscopy",
+        "d": "Confocal microscopy"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In electron diffraction, interplanar spacing d can be calculated using which relationship conceptually?",
+      "answers": {
+        "a": "Bragg's law relating wavelength, angle, and d-spacing",
+        "b": "Ohm's law for resistance",
+        "c": "Beer-Lambert law for absorbance",
+        "d": "Arrhenius equation for rates"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Negative staining in TEM primarily improves visibility of which kind of specimens?",
+      "answers": {
+        "a": "Thick resin-embedded sections",
+        "b": "Surface topography of metals",
+        "c": "Small biological particles like viruses and proteins",
+        "d": "Bulk crystals for diffraction"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Cryo-EM is particularly valuable because it:",
+      "answers": {
+        "a": "Requires no vacuum",
+        "b": "Preserves native hydrated state by rapid vitrification",
+        "c": "Uses only visible light",
+        "d": "Eliminates the need for detectors"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is a common use of immunogold labeling in electron microscopy for pharmacy research?",
+      "answers": {
+        "a": "To increase section thickness",
+        "b": "To localize specific proteins or antigens with electron-dense gold particles",
+        "c": "To coat grids for conductivity",
+        "d": "To calibrate magnification"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What does \"mean free path\" of electrons in a specimen refer to?",
+      "answers": {
+        "a": "The average distance electrons travel in vacuum",
+        "b": "The average distance between atomic nuclei",
+        "c": "The average distance an electron travels in the specimen before inelastic scattering",
+        "d": "The maximum penetration depth of X-rays"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

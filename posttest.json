@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which staining reagent is commonly used to increase electron density of lipids and membranes in TEM?",
+      "answers": {
+        "a": "Lead citrate",
+        "b": "Osmium tetroxide",
+        "c": "Uranyl acetate",
+        "d": "Silver nitrate"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In TEM, what is the role of the objective aperture?",
+      "answers": {
+        "a": "To accelerate electrons to higher energy",
+        "b": "To select central beam for diffraction only",
+        "c": "To improve image contrast by limiting scattered electrons",
+        "d": "To cool the sample during imaging"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What causes \"beam damage\" in biological samples during TEM?",
+      "answers": {
+        "a": "Excessive vacuum",
+        "b": "High electron dose causing radiolysis and heating",
+        "c": "Use of conductive coating",
+        "d": "Low accelerating voltage"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which embedding resin is commonly used for ultramicrotomy of biological samples?",
+      "answers": {
+        "a": "Polystyrene",
+        "b": "Epoxy resin (e.g., Epon/Araldite)",
+        "c": "Polyethylene glycol",
+        "d": "Gelatin"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which contrast mechanism is most important for imaging unstained biological specimens in TEM under cryo conditions?",
+      "answers": {
+        "a": "Mass-thickness contrast",
+        "b": "Z-contrast from heavy metals",
+        "c": "Phase contrast",
+        "d": "Backscattered electron contrast"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which grid support film is commonly used for TEM biological samples to reduce contamination and provide support?",
+      "answers": {
+        "a": "Aluminum foil",
+        "b": "Formvar or carbon-coated copper grids",
+        "c": "Glass coverslips",
+        "d": "Plastic Petri dish"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which heavy metal stain binds strongly to nucleic acids and proteins in TEM?",
+      "answers": {
+        "a": "Lead citrate",
+        "b": "Uranyl acetate",
+        "c": "Phosphotungstic acid",
+        "d": "Osmium tetroxide"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In TEM sample preparation, what is the purpose of ultramicrotomy?",
+      "answers": {
+        "a": "To coat samples with metal",
+        "b": "To cut ultrathin sections (~50-100 nm) for transmission",
+        "c": "To freeze-dry samples",
+        "d": "To perform elemental mapping"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In TEM, contrast due to atomic number differences (Z-contrast) is most prominent in which imaging mode?",
+      "answers": {
+        "a": "Bright-field imaging",
+        "b": "Dark-field imaging or high-angle annular dark-field (HAADF) in STEM",
+        "c": "Secondary electron imaging",
+        "d": "Optical microscopy"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is glow-discharge treatment applied to TEM grids before sample application?",
+      "answers": {
+        "a": "To sterilize the grid only",
+        "b": "To make the carbon film hydrophilic and improve sample spreading",
+        "c": "To deposit metal coating",
+        "d": "To reduce mesh openings"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
